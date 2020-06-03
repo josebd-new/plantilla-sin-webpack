@@ -1,0 +1,14 @@
+html,
+body {
+  background-color: gray;
+}
+img {
+  width: 270px;
+  height: 270px;
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: rgb(22, 223, 106);
+}
